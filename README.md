@@ -1,2 +1,3 @@
 # hello-world
-My first super repository
+
+Hello comunidade. Estamos aqui reunidos hoje para ver o nascimento de mais um elemento da comunidade.
